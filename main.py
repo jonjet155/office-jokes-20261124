@@ -6,7 +6,7 @@ Python 3.13, standard library only, no network, deterministic.
 
 import os
 
-JOKE = "We had a meeting about meetings. The action item was more meetings."
+JOKE = "My performance review said 'be more visible' — so now I attend meetings on camera, muted, doing nothing."
 
 
 def main() -> None:

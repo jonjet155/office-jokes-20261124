@@ -12,7 +12,7 @@ line, and nothing else.
 
 ## The joke
 
-> We had a meeting about meetings. The action item was more meetings.
+> My performance review said 'be more visible' — so now I attend meetings on camera, muted, doing nothing.
 
 ## Run
 
