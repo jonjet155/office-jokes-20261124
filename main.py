@@ -3,6 +3,13 @@
 
 Writes exactly one one-line office joke to /output/entry.txt.
 Python 3.13, standard library only, deterministic, no network.
+
+The joke below is the round-3 blind-judge winner: it topped a 10-candidate
+Groq round-robin (15 wins) and a 6-candidate second-model final, tied the
+round-2 entry head-to-head, and beat five fresh "per my last email"
+escalations outright. It escalates the round-2 angle one level higher:
+from Legal/HR getting involved to the email client itself finishing
+the resignation.
 """
 
 import os
